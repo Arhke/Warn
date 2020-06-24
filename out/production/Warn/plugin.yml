@@ -1,0 +1,13 @@
+name: Warn
+version: 1.0
+author: Arhke
+main: net.waterraid.Warn.Main
+commands:
+  warn:
+    usage: /<command>
+  warnings:
+    usage: /<command>
+  delwarning:
+    usage: /<command>
+  warnreload:
+    usage: /<command>

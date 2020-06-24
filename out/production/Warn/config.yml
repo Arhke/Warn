@@ -1,0 +1,4 @@
+grief:
+  1:
+    - "msg {player} {notes}"
+  2:
